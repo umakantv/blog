@@ -1,0 +1,15 @@
+{
+  "workbench.colorCustomizations": {
+    "sideBar.background": "#000000",
+    "editor.background": "#090909",
+    "tab.border": "#090909",
+    "sideBar.border": "#090909",
+    "activityBar.background": "#090909",
+    "terminal.background": "#090909",
+    "terminal.foreground": "#4e75b5"
+  },
+  "editor.tokenColorCustomizations": {
+    // "numbers":"#FF0000",
+  },
+  "editor.tabSize": 2
+}
